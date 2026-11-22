@@ -286,6 +286,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [Kubernetes](https://github.com/strowk/mcp-k8s-go)<sup><sup>1</sup></sup> - Kubernetes cluster operations through MCP
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [Kubernetes](https://github.com/weibaohui/k8m)<sup><sup>2</sup></sup> - Kubernetes  multi-cluster  management and operations, featuring a management ui, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [MKP](https://github.com/StacklokLabs/mkp)<sup><sup>3</sup></sup> - Model Kontext Protocol Server for Kubernetes with native Go implementation, direct API integration, and comprehensive resource management
+- <img src="https://www.google.com/s2/favicons?domain=publicfreesuffix.org&sz=32" height="14"/> [PFS Free Domains](https://github.com/PublicFreeSuffix/PublicFreeSuffix) - Find and register free domains across seven live public suffixes, then manage DNS records, WHOIS lookups, SSL certificates and free static hosting via a hosted MCP server (OAuth)
 - <img src="https://tinybird.co/favicon.ico" height="14"/> [Tinybird](https://github.com/tinybirdco/mcp-tinybird)<sup><sup>⭐</sup></sup> - Interact with a Tinybird Workspace from any MCP client.
 
 <br />
